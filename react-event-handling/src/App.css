@@ -1,0 +1,43 @@
+.btn-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn {
+    width: 200px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-blue {
+    border: 1px solid blue;
+    background-color: blue;
+}
+
+.btn-green {
+    border: 1px solid green;
+    background-color: green;
+}
+
+.btn-pink {
+    border: 1px solid pink;
+    background-color: pink;
+}
+
+.btn-red {
+    border: 1px solid red;
+    background-color: red;
+}
+
+.btn-violet {
+    border: 1px solid violet;
+    background-color: violet;
+}
+
+.btn-add {
+    border: 1px solid gray;
+    background-color: gray;
+}

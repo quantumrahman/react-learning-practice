@@ -1,0 +1,11 @@
+.employ {
+    width: 400px;
+    border: 1px solid blueviolet;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-direction: column;
+    margin-top: 10px;
+}
